@@ -1,0 +1,48 @@
+p {
+    font-family: cursive;
+    font-size: 125%;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+}
+
+p.header.ex1 {
+    margin-top: 1em;
+}
+
+
+h1 {
+    color: black;
+    margin-left: 350;
+    font: bold;
+
+}
+
+li {
+    color: orange;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.link {
+    font-family: Times New Roman;
+    display: inline-block;
+    margin-left: 350;
+    color: black;
+}    
+
+
+#info {
+    font-weight: bold;
+    padding-bottom: .2em;
+    padding-top: 2em;
+}
+
+img {
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+html {
+    background-color: blue;
+}
